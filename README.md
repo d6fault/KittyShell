@@ -19,7 +19,7 @@ This tool is made with love ❤️ by **D6fault**.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/KittyShell.git
+   git clone https://github.com/d6fault/KittyShell.git
    cd KittyShell
    ```
 
